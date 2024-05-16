@@ -1,4 +1,4 @@
-# Name（pjsekai-music AVIUTL）
+# 名前（pjsekai-music AVIUTL）
 
 プロセカ風曲選択画面です
 # 使い方
