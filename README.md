@@ -10,4 +10,4 @@ default.pdfに詳しい使い方を書いています。
 
 # 例
 
-https://github.com/Piliman22/pjsekai-music/blob/main/%E7%95%AA%E5%A4%96%E7%B7%A8/sad.png
+<img src="" width="100">
